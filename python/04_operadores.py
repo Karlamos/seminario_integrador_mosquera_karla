@@ -49,4 +49,4 @@ print("Operadores not : not (5==5)", not (5==5))
 tiene_dinero = True
 tienda_abierta = True
 
-puede_comprar = tiene_dinero?
+puede_comprar = tiene_dinero

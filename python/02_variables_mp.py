@@ -1,17 +1,17 @@
-# declaracion de variables
+# Declaración de variables
 
-nombre = "Operador de Flota"
+nombre = "Carlos Pérez"
 edad = 39
 print(nombre)
 print(edad)
 
-apellido: str = "Mosquera"
+apellido: str = "Pérez"
 print(apellido)
 
 print("Tipos de variables")
 print("Tipo Texto o String")
-terminal_base = "Carcelén"
-print(type(terminal_base))
+jefe_operaciones = "Marcela"
+print(type(jefe_operaciones))
 
 
 print("Tipo de Variable Entera int")
@@ -21,19 +21,19 @@ print(type(calle))
 
 
 print("Tipo de Variable Flotante float .decimal")
-tarifa_pasaje = 4.5
-print(tarifa_pasaje)
-print(type(tarifa_pasaje))
+precio_pasaje = 4.5
+print(precio_pasaje)
+print(type(precio_pasaje))
 
 
 print("Tipo de Variable Booleana bool")
-corredor_norte_abierto = True
-print(corredor_norte_abierto)
-print(type(corredor_norte_abierto))
+terminal_abierta = True
+print(terminal_abierta)
+print(type(terminal_abierta))
 
-pasajeros = 5
-print(pasajeros)
-pasajeros = 5 + 5
-print(pasajeros)
-pasajeros += 5
-print(pasajeros)
+unidades = 5
+print(unidades)
+unidades = 5 + 5
+print(unidades)
+unidades += 5
+print(unidades)
